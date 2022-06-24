@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Halcyon Cloud</string>
+    <string name="facebook_app_id">566701124969136</string>
+    <string name="fb_login_protocol_scheme">fb566701124969136</string>
+    <string name="image_chooser">Choose Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
